@@ -1,0 +1,83 @@
+[
+	{
+		"Giocatore":"Bremer",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/239580.png.adapt.265w.png",
+		"Nazione":"Brasile",
+		"Campionato":"Serie A",
+		"Squadra":"Juventus",
+		"Ovr":"84"		
+	},
+	{
+		"Giocatore":"Bastoni",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/237383.png.adapt.265w.png",
+		"Nazione":"Italia",
+		"Campionato":"Serie A",
+		"Squadra":"Inter",
+		"Ovr":"85"		
+	},
+	{
+		"Giocatore":"Rùben Dias",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/239818.png.adapt.265w.png",
+		"Nazione":"Portogallo",
+		"Campionato":"Premier League",
+		"Squadra":"Manchester City",
+		"Ovr":"89"		
+	},
+	{
+		"Giocatore":"Chiellini",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/138956.png.adapt.265w.png",
+		"Nazione":"Italia",
+		"Campionato":"MLS",
+		"Squadra":"Los Angeles",
+		"Ovr":"80"		
+	},
+	{
+		"Giocatore":"Hakimi",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/235212.png.adapt.265w.png",
+		"Nazione":"Marocco",
+		"Campionato":"Ligue 1",
+		"Squadra":"PSG",
+		"Ovr":"84"		
+	},
+	{
+		"Giocatore":"Di Lorenzo",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/217870.png.adapt.265w.png",
+		"Nazione":"Italia",
+		"Campionato":"Serie A",
+		"Squadra":"Napoli",
+		"Ovr":"85"		
+	},
+	{
+		"Giocatore":"João Cancelo",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/210514.png.adapt.265w.png",
+		"Nazione":"Portogallo",
+		"Campionato":"La Liga",
+		"Squadra":"Barcellona",
+		"Ovr":"86"		
+	},
+	{
+		"Giocatore":"Marquinhos",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/207865.png.adapt.265w.png",
+		"Nazione":"Brasile",
+		"Campionato":"Ligue 1",
+		"Squadra":"PSG",
+		"Ovr":"87"		
+	},
+	{
+		"Giocatore":"Éder Militão",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/240130.png.adapt.265w.png",
+		"Nazione":"Brasile",
+		"Campionato":"La Liga",
+		"Squadra":"Real Madrid",
+		"Ovr":"86"		
+	},
+	{
+		"Giocatore":"Laporte",
+		"Immagine":"https://media.contentapi.ea.com/content/dam/ea/easfc/fc-24/ratings/common/full/player-shields/en/212218.png.adapt.265w.png",
+		"Nazione":"Spagna",
+		"Campionato":"Saudi Pro League",
+		"Squadra":"Al-Nassr",
+		"Ovr":"85"		
+	}
+	
+]

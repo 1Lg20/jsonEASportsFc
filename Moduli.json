@@ -1,0 +1,44 @@
+[
+	{
+		"id":"4-3-3",
+		"Difensori":"4",
+		"Centrocampisti":"3",
+		"Attaccanti":"3"
+	},
+	{
+		"id":"3-5-2",
+		"Difensori":"3",
+		"Centrocampisti":"5",
+		"Attaccanti":"2"
+	},
+	{
+		"id":"5-3-2",
+		"Difensori":"5",
+		"Centrocampisti":"3",
+		"Attaccanti":"2"
+	},
+	{
+		"id":"3-4-3",
+		"Difensori":"3",
+		"Centrocampisti":"4",
+		"Attaccanti":"3"
+	},
+	{
+		"id":"4-3-3 contenimento",
+		"Difensori":"4",
+		"Centrocampisti":"3",
+		"Attaccanti":"3"
+	},
+	{
+		"id":"4-3-3 offensivo",
+		"Difensori":"4",
+		"Centrocampisti":"3",
+		"Attaccanti":"3"
+	},
+	{
+		"id":"4-4-1-1 offensivo",
+		"Difensori":"4",
+		"Centrocampisti":"4",
+		"Attaccanti":"2"
+	}
+]
